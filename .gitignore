@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+.mplconfig
+
+**/__pycache__/
+/plots
